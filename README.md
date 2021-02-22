@@ -22,6 +22,8 @@ This is my first project using TS.
 
 ## Usage
 
+> The database (mongo) must be have running at port 27017 (default port)
+
 ```cmd
 git clone https://github.com/gabrielba15/node-mongo-ts-crud.git 
 cd node-mongo-ts-crud
