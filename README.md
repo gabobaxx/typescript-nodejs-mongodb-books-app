@@ -25,8 +25,8 @@ This is my first project using TS.
 > The database (mongo) must be have running at port 27017 (default port)
 
 ```cmd
-git clone https://github.com/gabrielba15/node-mongo-ts-crud.git 
-cd node-mongo-ts-crud
+git clone https://github.com/gabrielba15/typescript-nodejs-mongodb-books-app.git 
+cd typescript-nodejs-mongodb-books-app
 npm install 
 npm run build 
 npm start
